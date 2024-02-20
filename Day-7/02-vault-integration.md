@@ -143,3 +143,7 @@ vault write -f auth/approle/role/my-approle/secret-id
    ```
 
 This command generates a Secret ID and provides it in the response. Save the Secret ID securely, as it will be used for Terraform authentication.
+4. **How to give path**:
+![image](https://github.com/prashant842/terraform_and_vault_in_7_days/assets/110713882/3a9e5212-5b92-4eda-a9e0-c5a6f6e29725)
+![image](https://github.com/prashant842/terraform_and_vault_in_7_days/assets/110713882/77ee4ef4-fb07-44eb-ba0a-bb53c0f929f5)
+
