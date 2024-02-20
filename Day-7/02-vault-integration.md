@@ -146,4 +146,7 @@ This command generates a Secret ID and provides it in the response. Save the Sec
 4. **How to give path**:
 ![image](https://github.com/prashant842/terraform_and_vault_in_7_days/assets/110713882/3a9e5212-5b92-4eda-a9e0-c5a6f6e29725)
 ![image](https://github.com/prashant842/terraform_and_vault_in_7_days/assets/110713882/77ee4ef4-fb07-44eb-ba0a-bb53c0f929f5)
+![image](https://github.com/prashant842/terraform_and_vault_in_7_days/assets/110713882/1fbc0d7c-0a51-4b3f-8ed7-859d75f09d4f)
+![image](https://github.com/prashant842/terraform_and_vault_in_7_days/assets/110713882/ed1884c0-a023-4981-a661-241ee81e918b)
+
 
